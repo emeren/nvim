@@ -1,7 +1,8 @@
 # nvim
+
 Nvim config
 
-Install nvim 
+Install nvim
 
 cd ~/.config/
 
@@ -9,7 +10,6 @@ git clone https://github.com/emeren/nvim.git
 
 nvim
 
-:PlugInstall 
+:PlugInstall
 
-
-![alt text](https://github.com/emeren/nvim/blob/main/preview.jpg?raw=true)
+![alt text](https://github.com/emeren/nvim/main/preview.jpg?raw=true)
