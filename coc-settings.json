@@ -1,0 +1,56 @@
+{
+  "vetur.trace.server": "verbose",
+
+  "suggest.completionItemKindLabels": {
+    "text": "t",
+    "method": "m",
+    "function": ""
+  },
+  "diagnostic.errorSign": " ",
+  "diagnostic.warningSign": " ",
+  "diagnostic.infoSign": "",
+  "diagnostic.hintSign": " ",
+  "list.indicator": ">",
+  "list.selectedSignText": " ",
+
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "markdown",
+    "javascript",
+    "graphql",
+    "html",
+    "php",
+    "yaml",
+    "json",
+    "python",
+    "java",
+    "vue"
+  ],
+  "coc.preferences.hoverTarget": "float",
+
+  "python.linting.enabled": false,
+  "python.linting.pylintEnabled": false,
+  "python.formatting.provider": "black",
+
+  "snippets.ultisnips.directories": ["UltiSnips", "~/.config/nvim/snips"],
+
+  "emmet.includeLanguages": {
+    "vuehtml": "html",
+    "javascript": "javascriptreact"
+  },
+
+  "explorer.width": 30,
+  "explorer.icon.enableNerdfont": true,
+  "explorer.previewAction.onHover": true,
+  "explorer.icon.enableVimDevicons": false,
+  "explorer.keyMappings": {
+    "<cr>": ["expandable?", "expand", "open"],
+    "v": "open:vsplit"
+  },
+
+  //coc-emoji
+  "coc.source.emoji.filetypes": ["markdown"]
+
+  // TODO b:coc_suggest_disable=1 GOYO
+  // TODO add to paths.vim g:coc_node_path
+}
