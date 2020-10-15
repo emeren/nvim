@@ -12,4 +12,5 @@ nvim
 
 :PlugInstall
 
-![alt text](https://github.com/emeren/nvim/main/preview.jpg?raw=true)
+##Preview
+![alt text](https://github.com/emeren/nvim/blob/main/preview.jpg?raw=true)
